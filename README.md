@@ -9,6 +9,7 @@ Bài tập lớn môn Khai thác thông tin đa phương tiện, ngôn ngữ : P
 
 4, Gõ lệnh "py html_parser.py" để chạy
 
+5, Kết quả trả về là 1 file .txt mới sẽ được hiện ra
 
 
 
