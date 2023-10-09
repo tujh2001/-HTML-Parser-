@@ -1,7 +1,7 @@
 # HTML-Parser
 Projct cá nhân - ngôn ngữ : Python
 
-1, Đưa link url của các bài báo vào file "url_file.txt"
+1, Đưa link url của các bài báo vào file text: "url_file.txt"
 
 2, Mở file "html_parser.py"
 
