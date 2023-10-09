@@ -1,5 +1,5 @@
 # HTML-Parser
-Bài tập lớn môn Khai thác thông tin đa phương tiện, ngôn ngữ : Python
+Projct cá nhân - ngôn ngữ : Python
 
 1, Đưa link url của các bài báo vào file "url_file.txt"
 
